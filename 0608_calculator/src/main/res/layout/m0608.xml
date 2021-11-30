@@ -2,19 +2,19 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/m0608_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/Navy"
     android:padding="@dimen/p10"
     tools:context=".M0608">
 
-    <TextView
+    <EditText
         android:id="@+id/m0608_t001"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/Yellow"
         android:gravity="center_horizontal|center_vertical"
-        android:hint="@string/error"
         android:textColor="@color/Red"
         android:textSize="@dimen/fontsize"
         android:textStyle="bold" />
