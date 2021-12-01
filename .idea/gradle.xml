@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/0608_calculator" />
             <option value="$PROJECT_DIR$/0608a_getIdentifier" />
             <option value="$PROJECT_DIR$/0608b_ScrollView" />
+            <option value="$PROJECT_DIR$/0609_IndexMicro" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
