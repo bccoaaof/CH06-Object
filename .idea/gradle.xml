@@ -20,6 +20,8 @@
             <option value="$PROJECT_DIR$/0606_Game_final" />
             <option value="$PROJECT_DIR$/0607_IntentAll" />
             <option value="$PROJECT_DIR$/0608_calculator" />
+            <option value="$PROJECT_DIR$/0608a_getIdentifier" />
+            <option value="$PROJECT_DIR$/0608b_ScrollView" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
